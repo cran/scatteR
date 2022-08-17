@@ -1,0 +1,17 @@
+3a27dfb734a9804a7d7ddc493df87e78 *DESCRIPTION
+f17f32bda9f7b1116dee4337eafb5c75 *LICENSE
+c89fd8a010a0f953a5d540c5c76e780d *NAMESPACE
+ab46a7b13779418d85f3b1b73d7b2680 *R/scatteR.R
+9e823ab4ab001eb4eca26998be6d8be3 *README.md
+94f462859e1cc8e2fdc574496f45dbae *man/figures/README-example-1.png
+f5c6916b452efe9f7b3f3b9624bc54c3 *man/figures/README-pressure-1.png
+0f796033f8808b875466a643ca6b7537 *man/figures/README-unnamed-chunk-2-1.png
+1f6afaebe5ea38336b4c898811a504f2 *man/figures/README-unnamed-chunk-3-1.png
+096a61d9e3616095ca3dcc0bfddc953c *man/figures/README-unnamed-chunk-4-1.png
+9d32d3a13316b7b06deac7eb13a324e5 *man/figures/README-unnamed-chunk-5-1.png
+61892f24b2fed0c61acc1fa8be96c8a1 *man/figures/README-unnamed-chunk-6-1.png
+2f3e4a6ab05f42d62062c9bba33cb47c *man/figures/README-unnamed-chunk-7-1.png
+5120530f8d1e87938ebc6ae0d53d6c1e *man/scatteR.Rd
+0a19ea555d2b61059d5cbe1a41213b93 *tests/testthat.R
+9b59f11cd5556ef63fb15c00bee16af0 *tests/testthat/test-is-java-there.R
+1f327a1098ff523cff7e7cf770b461fe *tests/testthat/test-scatteR.R
